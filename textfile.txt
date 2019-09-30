@@ -1,0 +1,5 @@
+point title description icon
+8.61 ,45.813  My Town My Town Ispra
+2.36 ,48.833  My Favorite Town 1  Paris
+13.31 ,52.463  My Favorite Town 2  Berlin
+12.30 ,45.433  My Favorite Town 3  Venice
